@@ -1,0 +1,16 @@
+/Users/liuyao/Documents/code/learn-rust/kv/target/debug/deps/prost_build-bcce8729ed6c8f6b.rmeta: /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/lib.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/ast.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/code_generator.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/extern_paths.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/ident.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/message_graph.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/path.rs
+
+/Users/liuyao/Documents/code/learn-rust/kv/target/debug/deps/libprost_build-bcce8729ed6c8f6b.rlib: /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/lib.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/ast.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/code_generator.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/extern_paths.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/ident.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/message_graph.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/path.rs
+
+/Users/liuyao/Documents/code/learn-rust/kv/target/debug/deps/prost_build-bcce8729ed6c8f6b.d: /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/lib.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/ast.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/code_generator.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/extern_paths.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/ident.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/message_graph.rs /Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/path.rs
+
+/Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/lib.rs:
+/Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/ast.rs:
+/Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/code_generator.rs:
+/Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/extern_paths.rs:
+/Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/ident.rs:
+/Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/message_graph.rs:
+/Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/src/path.rs:
+
+# env-dep:PROTOC=/Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/third-party/protobuf/protoc-osx-x86_64
+# env-dep:PROTOC_INCLUDE=/Users/liuyao/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.8.0/third-party/protobuf/include
