@@ -1,0 +1,17 @@
+[package]
+name = "rgrep"
+author = "yaoyao<liuyao@163.com>"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1"
+clap = { version = "3.0.0-rc.8", features = ["derive"] }# 我们需要使用最新的 3.0.0-beta.4 或者更高版本
+colored = "2"
+glob = "0.3"
+itertools = "0.10"
+rayon = "1"
+regex = "1"
+thiserror = "1"
